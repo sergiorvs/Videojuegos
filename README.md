@@ -1,6 +1,8 @@
 # Videojuegos
 ## Nivel 1
-![WhatsApp Image 2019-10-16 at 19 25 59](https://user-images.githubusercontent.com/12618970/66971101-8245a700-f055-11e9-8948-ed3ff256619f.jpeg)
+
+![WhatsApp Image 2019-10-17 at 11 07 01](https://user-images.githubusercontent.com/12618970/67047686-79dd8280-f0ce-11e9-952b-304ba0350a6d.jpeg)
+
 
 ## Nivel 2
-![WhatsApp Image 2019-10-16 at 19 30 26](https://user-images.githubusercontent.com/12618970/66971099-81147a00-f055-11e9-8fcd-6634ef297252.jpeg)
+![WhatsApp Image 2019-10-17 at 11 06 15](https://user-images.githubusercontent.com/12618970/67047682-777b2880-f0ce-11e9-9034-5371f975e258.jpeg)
